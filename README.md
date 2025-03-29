@@ -1,10 +1,6 @@
 # netflix-receive-pin-discord-bot
 <br />
-<div align="center">
-  <img src="./assets/netflix.svg" alt="Logo" width="75" height="75">
-  <img src="./assets/discord.png" alt="Logo" width="80" height="80">
-  <h1 align="center">Netflix Receive Pin Discord Bot</h1>
-</div>
+
 
 ## Description
 
